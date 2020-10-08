@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const $ = require("jquery");
 linePage();
 cycleText();
