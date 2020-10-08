@@ -8,11 +8,16 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "jquery": "3.5.1"
+    "jquery": "3.5.1",
+    "sass": "1.27.0",
+    "scss": "0.2.4"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
+  "includePaths": [
+    "node_modules"
+  ],
   "keywords": []
 }
