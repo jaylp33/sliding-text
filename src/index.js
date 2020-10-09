@@ -1,4 +1,4 @@
-const $ = require("jquery");
+import * as $ from "jquery";
 
 linePage();
 cycleText();
